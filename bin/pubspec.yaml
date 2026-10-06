@@ -1,0 +1,6 @@
+name: dart_exercises
+
+description: A basic Dart program demonstrating variables, data types, operators, and output.
+
+environment:
+  sdk: ^3.0.0
